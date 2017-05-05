@@ -17,3 +17,5 @@ Steps are listed as follow:
 2. change the *directory* variable value in csvToKgl.py.
 3. run it and get all .kgl files.
 4. go to this [page](http://music.163.com/#/import/kugou) to upload your .kgl files one by one.
+
+**Note**: If your playlist too long or has too many songs that not exist in 163 library, it won't work sometimes.
