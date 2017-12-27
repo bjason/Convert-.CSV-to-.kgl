@@ -20,7 +20,7 @@ Steps are listed as follow:
 
 **Note**: If your playlist too long or has too many songs that not exist in 163 library, it won't work sometimes.
 
-## 如何将spotify歌单导入网易云音乐？
+## 如何将spotify歌单导入网易云音乐？（已失效）
 关于这一点，虽然网上已经有不少方法，但是大多还需要自己手动更改不少东西，总体来说十分麻烦。但原理一般都是利用网易提供的导入酷狗歌单（.KGL）文件进行导入，依葫芦画瓢，写了个很小的程序，具体的操作如下：
 
 ###### 步骤
